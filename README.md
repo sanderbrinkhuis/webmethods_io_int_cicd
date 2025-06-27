@@ -185,4 +185,4 @@ More to discover
 * [DevOps for webMethods.io Integration](https://tech.forums.softwareag.com/t/devops-for-webmethods-io-integration/275949)
 * [webMethods DevOps](https://tech.forums.softwareag.com/t/recording-webmethods-virtual-meetup-may-19th-2023-webmethods-devops/278975)  
 ______________________
-These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.
+These tools are provided as-is and without warranty or support. They do not constitute part of the webMethods product suite. Users are free to use, fork and modify them, subject to the license agreement. While we welcome contributions, we cannot guarantee to include every contribution in the master project.
